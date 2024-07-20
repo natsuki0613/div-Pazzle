@@ -51,6 +51,9 @@
   border-color: #ffffff;
   margin-bottom: 10px;
 }
+.orange-box:last-child{
+  margin-right: 0px;
+}
 .footer {
   width: 400px;
   height: 100px;
